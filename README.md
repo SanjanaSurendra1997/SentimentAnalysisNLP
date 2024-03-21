@@ -1,23 +1,4 @@
 Sentiment Analysis on Amazon product reviews
-First Name	Last Name	Email address
-Sanjana	Surendra	ssurendra@hawk.iit.edu
-
-Table of Contents
-1. Introduction	2
-2. Data	2
-3. Problems and Solutions	3
-4. KDD	3
-4.1. Data Processing	3
-4.2. Text Processing	4
-4.3. Data Mining Methods and Processes	4
-5. Evaluations and Results	4
-5.1. Evaluation Methods	4
-5.2. Results and Findings	5
-6. Conclusions and Future Work	6
-6.1. Conclusions	6
-6.2. Limitations	6
-6.3. Potential Improvements or Future Work	6
-
 
  
 1.	Introduction
